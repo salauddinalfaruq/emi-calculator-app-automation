@@ -1,9 +1,11 @@
 
-# EMi-Calculator-App-Automation
+## EMi-Calculator-App-Automation
 
 ### Description
-Open emi-calculator in emulation and calculate EMI for 
-different dataset.
+- Open EMI Calculator
+- Go to calculate page
+- Input different data 
+- Calculate monthly EMI and evaluate the result 
 
 ### Tools and Framework
 - Selenium
@@ -11,23 +13,14 @@ different dataset.
 - Appium
 - Android Studio
 
-### What I did
-- Open EMI Calculator
-- Go to calculate page
-- Input different data 
-- Calculate monthly EMI and evaluate the result 
-
-
 ### How to run the project
 #### Prerequisite
 - JDK 8 or higher
 - java IDE
-- configure GRADLE_HOMe
+- configure JAVA_HOME and GRADLE_HOME
 
 #### Steps to run
 - Clone the repo
 - Give gradle clean test command in root directory
-
-  
 
 ### Report
